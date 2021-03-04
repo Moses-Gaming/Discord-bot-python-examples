@@ -1,1 +1,1 @@
-# Discord-bot-python-examples
+This is my first and probably my last bot, This bot will be updated everyday probably every hour of the day... but if you decide to add this bot to your server please make sure it is named Moses Gaming as it's user profile but you can choose any PFP you want.
